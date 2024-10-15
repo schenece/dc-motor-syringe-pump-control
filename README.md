@@ -36,7 +36,3 @@ Each script is designed to be modular and can be run independently. Detailed usa
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or additional features, feel free to open an issue or submit a pull request.
-
----
-
-Adjust the content to reflect any specific details or requirements for your project. Let me know if you’d like further customization!
