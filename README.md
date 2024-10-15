@@ -1,4 +1,4 @@
-# ECEN-611-mini-project
+# ECEN 611 Mini Project
 
 This repository contains the files and resources for my ECEN 611 mini project. The project primarily involves MATLAB, with potential future additions of Simulink models and reference materials related to the project.
 
